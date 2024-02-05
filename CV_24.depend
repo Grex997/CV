@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706832221 source:c:\lezioni lm-25\computer vision\lab\project\cv_24\main.cpp
+	<opencv2/opencv.hpp>
+	<fstream>
+	<sstream>
+
